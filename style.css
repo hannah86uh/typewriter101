@@ -16,11 +16,11 @@
   overflow: hidden;
   width: 1440px;
   height: 1334px;
-  position: center;
+  position: relative;
 }
 
 .homepage-desktop .overlap {
-  position: absolute;
+  position: relative;
   width: 1440px;
   height: 290px;
   top: 0;
