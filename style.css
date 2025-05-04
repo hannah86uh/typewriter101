@@ -5,6 +5,11 @@
   justify-content: center;
   width: 100%;
 }
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
 
 .homepage-desktop .div {
   background-color: #fff2f2;
