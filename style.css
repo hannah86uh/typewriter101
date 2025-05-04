@@ -20,7 +20,7 @@
 }
 
 .homepage-desktop .overlap {
-  position: relative;
+  position: absolute;
   width: 1440px;
   height: 290px;
   top: 0;
